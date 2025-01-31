@@ -5,7 +5,6 @@
 ###
 
 <p align="left">I'm Youssef Alashiq, a software engineer and back-end developer with a passion for designing efficient, scalable, and secure systems. Experienced in Node.js, Java, and cloud technologies, with a strong focus on API development, database optimization, and system architecture. I enjoy solving complex problems, improving performance, and ensuring seamless application integration. Adaptable and always excited to learn, I perform at my best in dynamic environments where I can refine my skills and contribute to impactful projects.</p>
-
 ###
 
 <h2>🚀 Languages and Tools</h2>
